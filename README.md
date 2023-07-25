@@ -1,7 +1,5 @@
 # JokesWebApp - .NET Core MVC CRUD Project
 
-![JokesWebApp](url_to_jokes_web_app_screenshot)
-
 ## Introduction
 
 JokesWebApp - A Fun .NET Core MVC CRUD Project 🎉
