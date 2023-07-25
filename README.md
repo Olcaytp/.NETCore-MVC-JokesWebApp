@@ -62,10 +62,6 @@ To run the JokesWebApp on your local machine, follow these steps:
 
 Contributions to the JokesWebApp project are welcome! If you find any issues or have ideas for improvements, feel free to create a pull request.
 
-## License
-
-The JokesWebApp project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to FreeCodeCamp for providing the ASP.NET Core Crash Course - C# App in One Hour. The course served as an excellent resource for building this project.
